@@ -11,3 +11,5 @@ These Python programs make use of Numpy, SciPy special Zeta function and Matplot
 
 Original Matlab files: by Aaron Clauset
 Translated Python files: by Javier del Molino Matamala
+
+A program example.py is included to show how to call plfit0, plfit, plpva and plplot (for discrete data).
